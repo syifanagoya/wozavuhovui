@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://wozavuhovui.pages.dev/sitemap.xml
